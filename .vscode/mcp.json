@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "awwwards": {
+      "type": "stdio",
+      "command": "cmd",
+      "args": ["/c", "awwwards-mcp"]
+    }
+  }
+}
